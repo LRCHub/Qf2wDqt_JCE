@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "REACH!",
+  "base_artist": "ego apartment",
+  "createdAt": "2026-02-22T05:46:18.473552Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "First Thing I Reach For",
+      "artist": "Ashley McBryde",
+      "has_synced": true,
+      "path": "select/01_First_Thing_I_Reach_For_Ashley_McBryde.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Just Out of Reach",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/02_Just_Out_of_Reach_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Reach Out (Touch the Sun)",
+      "artist": "Mike + The Mechanics",
+      "has_synced": true,
+      "path": "select/03_Reach_Out_(Touch_the_Sun)_Mike_+_The_Mechanics.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Reach Out",
+      "artist": "Midfield General feat. Linda Lewis",
+      "has_synced": false,
+      "path": "select/04_Reach_Out_Midfield_General_feat._Linda_Lewis.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Reach Out (feat. Linda Lewis)",
+      "artist": "Midfield General",
+      "has_synced": false,
+      "path": "select/05_Reach_Out_(feat._Linda_Lewis)_Midfield_General.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Reach Out Richard",
+      "artist": "Mayer Hawthorne",
+      "has_synced": true,
+      "path": "select/06_Reach_Out_Richard_Mayer_Hawthorne.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Reach You",
+      "artist": "Maxo",
+      "has_synced": true,
+      "path": "select/07_Reach_You_Maxo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Reach for the Stars [feat. Wyclef Jean]",
+      "artist": "Major Lazer feat. Wyclef Jean",
+      "has_synced": true,
+      "path": "select/08_Reach_for_the_Stars_[feat._Wyclef_Jean]_Major_Lazer_feat._Wyclef_Jean.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "That's When I Reach for My Revolver",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/09_That's_When_I_Reach_for_My_Revolver_Moby.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "That's When I Reach for My Revolver",
+      "artist": "Mission of Burma",
+      "has_synced": true,
+      "path": "select/10_That's_When_I_Reach_for_My_Revolver_Mission_of_Burma.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Trying To Reach You",
+      "artist": "Mojave 3",
+      "has_synced": false,
+      "path": "select/11_Trying_To_Reach_You_Mojave_3.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Reach for Love",
+      "artist": "Marcel King",
+      "has_synced": false,
+      "path": "select/12_Reach_for_Love_Marcel_King.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Seas Too Far to Reach",
+      "artist": "Okkervil River",
+      "has_synced": true,
+      "path": "select/13_Seas_Too_Far_to_Reach_Okkervil_River.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Section 9 (Light & Day / Reach For The Sun)",
+      "artist": "The Polyphonic Spree",
+      "has_synced": true,
+      "path": "select/14_Section_9_(Light_&_Day___Reach_For_The_Sun)_The_Polyphonic_Spree.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Section 9 (Light & Day/Reach for the Sun)",
+      "artist": "The Polyphonic Spree",
+      "has_synced": true,
+      "path": "select/15_Section_9_(Light_&_Day_Reach_for_the_Sun)_The_Polyphonic_Spree.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Writing To Reach You - Live At Glastonbury Festival / 1999",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/16_Writing_To_Reach_You_-_Live_At_Glastonbury_Festival___1999_Travis.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Writing To Reach You (Live At Glastonbury Festival \u0000 1999)",
+      "artist": "Travis",
+      "has_synced": false,
+      "path": "select/17_Writing_To_Reach_You_(Live_At_Glastonbury_Festival_\u0000_1999)_Travis.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "REACH!",
+      "artist": "ego apartment",
+      "has_synced": false,
+      "path": "select/pl_01_REACH!_ego_apartment.txt"
+    }
+  ]
+}
